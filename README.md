@@ -65,7 +65,7 @@ I'm currently focusing on:
 
 - 💼 [LinkedIn](www.linkedin.com/in/ahmedchermiti)
 - 📬 Email: ahmedchermiti255@gmail.com
-
+- 🏦 University Email: ahmed.chermiti.2024@ihec.ucar.tn
 ---
 
 ### ☕ Fun Fact
