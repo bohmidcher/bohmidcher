@@ -52,14 +52,6 @@ I'm currently focusing on:
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact" alt="Top Langs" />
-</p>
-
----
 
 ### 📚 Certifications & Learning (loading)
 
